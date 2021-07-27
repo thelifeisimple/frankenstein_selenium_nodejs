@@ -1,0 +1,19 @@
+{
+  "name": "psh_test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "chromedriver": "^92.0.0",
+    "local-runner": "^0.1.1-alpha",
+    "mocha": "^9.0.3",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  }
+}
