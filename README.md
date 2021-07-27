@@ -5,7 +5,7 @@ Contain 3 test Selenium + Nodejs and inicial estructure by POM.
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install module.
-Note: the module you need to find in package.json
+Note: the module you need to find are package.json
 
 ```bash
 npm init 
