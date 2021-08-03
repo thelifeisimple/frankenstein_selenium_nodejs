@@ -1,6 +1,6 @@
 # frankenstein_selenium_nodejs
 
-Contain 3 test Selenium + Nodejs and inicial estructure by POM.
+Contain 3 test Selenium + Nodejs and initial structure: POM type.
 
 ## Installation
 
